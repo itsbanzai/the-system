@@ -1,2 +1,2 @@
-# the-system
-A personal life progression system
+# the-security
+A personal study system
